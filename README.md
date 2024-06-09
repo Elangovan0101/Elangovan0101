@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elangovan</h1>
 <h3 align="center">An  AI/ML enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elangovan0101&label=Profile%20views&color=0e75b6&style=flat" alt="elangovan0101" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elangovan0101" alt="elangovan0101" /></a> </p>
-
 - 🔭 I’m currently working on **Autonomous Ariel surveillance drone for flood rescue operation**
 
 - 🌱 I’m currently learning **Full stack development, cloud computing , Data science and analysis , unreal**
